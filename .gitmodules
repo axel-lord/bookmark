@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/axel-lord/bookmark-data.git
+[submodule "server"]
+	path = server
+	url = https://github.com/axel-lord/bookmark-server.git
