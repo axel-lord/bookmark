@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/axel-lord/bookmark-server.git
+[submodule "tui"]
+	path = tui
+	url = https://github.com/axel-lord/bookmark-tui.git
