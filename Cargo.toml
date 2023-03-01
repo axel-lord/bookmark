@@ -1,2 +1,2 @@
 [workspace]
-members = ["./data", "./server"]
+members = ["./data", "./server", "./tui"]
