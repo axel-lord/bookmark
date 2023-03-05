@@ -1,3 +1,4 @@
 /target
 /sample
 /Cargo.lock
+*.log
